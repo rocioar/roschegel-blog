@@ -1,0 +1,4 @@
+
+{{ if ne "about" .Params.type }}
+  {{ template "_internal/disqus.html" . }}
+{{ end }}

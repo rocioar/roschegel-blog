@@ -1,0 +1,56 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "terminal"
+paginate = 5
+disqusShortname = "roschegel"
+googleAnalytics = "UA-165430966-1"
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+
+  themeColor = "blue"
+  showMenuItems = 2
+  showLanguageSelector = false
+  fullWidthTheme = false
+  centerTheme = false
+
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "/img/photo.jpg"
+
+  # set all headings to their default size (depending on browser settings)
+  # it's set to `true` by default
+  # oneHeadingSize = false
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "roschegel"
+  site = "roschegel"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "roschegel"
+    subtitle = "Rocio's blog about programming."
+    owner = ""
+    keywords = ""
+    copyright = "By Rocio Aramberri"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "roschegel"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/"
