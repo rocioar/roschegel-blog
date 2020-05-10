@@ -29,6 +29,12 @@ googleAnalytics = "UA-165430966-1"
   creator = "roschegel"
   site = "roschegel"
 
+[params.github]
+  creator = "rocioar"
+
+[params.linkedin]
+  creator = "roschegel"
+
 [languages]
   [languages.en]
     languageName = "English"

@@ -5,16 +5,14 @@ author = ""
 type = "about"
 +++
 
-# Hi there
+# About
 
 
 {{<figure src="/img/photo.jpg" title="Steve Francia" height="219px" position="center" style="border-radius: 8px; width:219px; height:291px;">}}
 
 
-I'm Rocio Aramberri. I live in Brazil, but I'm originally from Uruguay.
+My name is Rocio Aramberri. I live in Brazil, but I'm originally from Uruguay.
 
-I am a Lead Engineer at BriteCore, where I work with Python/Django and Vue.js.
+I work remotely as a Lead Engineer at [BriteCore](https://britecore.com). My main areas of expertise are Python, Django, Vue.js, and AWS.
 
-* [Github](https://github.com/rocioar/)
-* [Twitter](https://twitter.com/roschegel/)
-* [Linkedin](https://www.linkedin.com/in/roschegel/)
+Sharing knowledge and learning in the process are the main goals of this blog.
