@@ -1,5 +1,5 @@
 +++
-title = "Simplied Django Tests With Pytest and Pytest FactoryBoy"
+title = "Simplified Django Tests With Pytest and Pytest FactoryBoy"
 date = "2020-05-17"
 author = "Rocio Aramberri"
 authorTwitter = "rocioar"
