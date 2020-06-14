@@ -4,6 +4,7 @@ date = "2020-05-25T10:41:49-03:00"
 author = "Rocio Aramberri"
 keywords = ["black", "black action", "gradual black", "incremental black", "python formatter", "python black"]
 tags = ["python"]
+description = "I've created a Github Action that gradually applies black to your codebase. If your codebase is small and well tested, this Github Action would be of no use to you, as you could just format your code on a single PR. On the other hand, if you have a big enough codebase in which making a big PR with lots of formatting changes is a risk. Then look no further."
 +++
 
 I've just created my first Github Action: [https://github.com/rocioar/gradual-black-formatter](https://github.com/rocioar/gradual-black-formatter). It's called "Gradual Black Formatter", and it allows you to gradually format your code using [black](https://github.com/psf/black) via Github Actions.
