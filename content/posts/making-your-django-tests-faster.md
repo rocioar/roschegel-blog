@@ -5,11 +5,12 @@ author = "Rocio Aramberri"
 authorTwitter = "rocioar" #do not include @
 tags = ["python", "django", "pytest", "testing"]
 keywords = ["Fast Django tests", "faster tests", "faster django tests", "django tests"]
+description = "Tests need to be fast. If tests are slow, our development process is affected and we end up spending a considerable amount of time waiting for the results. On this blogpost I will go through some of the techniques that I’ve applied to speed up tests on Django applications."
 +++
 
 Tests need to be fast. If tests are slow, our development process is affected and we end up spending a considerable amount of time waiting for the results.
 
-I will go through some of the techniques that I’ve applied to speed up tests on Django applications. 
+I will go through some of the techniques that I’ve applied to speed up tests on Django applications.
 
 ## Tips for speeding up test execution
 

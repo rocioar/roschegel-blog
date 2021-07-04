@@ -5,6 +5,7 @@ author = "Rocio Aramberri"
 authorTwitter = "rocioar"
 tags = ["python", "django", "pytest", "testing"]
 keywords = ["django tests", "pytest-factoryboy", "Pytest and Django"]
+description = "Lately, I've been bothered by the amount of boilerplate on my Django application's test code. So, I decided to do some research and look for alternatives. On this blogpost I will take about pytest, factoryboy and how they can be combined."
 +++
 
 I'm always trying to find ways to make tests easier to read and extend. I hate working through a really hard feature and having to spend a big amount of time writing tests.

@@ -4,6 +4,7 @@ date = "2020-05-03"
 author = "Rocio Aramberri"
 keywords = ["Django", "Django ORM Optimization", "Django ORM"]
 tags = ["python", "django"]
+description = "The Django ORM (Object Relational Mapping) is one of the most powerful features of Django. It enables us to interact with the database using Python code instead of SQL. On this blogpost you will learn how to efficiently make queries using the ORM."
 +++
 
 The Django ORM (Object Relational Mapping) is one of the most powerful features of Django. It enables us to interact with the database using Python code instead of SQL.
